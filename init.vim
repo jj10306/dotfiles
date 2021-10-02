@@ -43,7 +43,7 @@ set splitbelow ***
 set splitright
 
 
-" *** Plugin configs from here to end of file ***
+" *** Plugin configs start here ***
 
  call plug#begin('~/.local/share/nvim/site')
  " Delicious colorscheme
