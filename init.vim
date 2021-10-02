@@ -39,7 +39,7 @@ map <C-k> :bnext<CR>
 map <C-j> :bprev<CR>
 map <C-l> <C-^>
 
-set splitbelow ***
+set splitbelow
 set splitright
 
 
