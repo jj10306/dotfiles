@@ -6,7 +6,7 @@ If you're interested in the plug-in free config, look for the line in `init.vim`
 # Instructions
 1. Download nvim binary
 
-    Run `curl -LO https://github.com/neovim/neovim/releases/download/v0.5.1/nvim.appimage && chmod u+x nvim.appimage`
+    Run `curl -LO https://github.com/neovim/neovim/releases/download/v0.5.0/nvim.appimage && chmod u+x nvim.appimage`
     
     then add `alias vim=/path/to/nvim.appimage` to `~/.bashrc`
 2. Create `~/.config/nvim/init.vim`
